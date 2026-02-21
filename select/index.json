@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "つながるまで",
+  "base_artist": "中島愛",
+  "createdAt": "2026-02-21T04:32:48.462552Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "つながるまで",
+      "artist": "中島 愛",
+      "has_synced": false,
+      "path": "select/pl_01_つながるまで_中島_愛.txt"
+    }
+  ]
+}
